@@ -3,8 +3,8 @@ Simple user management app using Node.js and Redis
 
 ## Screenshots
 ![screenshots](https://github.com/lirangofer-spec/node-redis-users-management/blob/master/screenshots/add_user.png)
-![screenshots](https://github.com/lirangofer-spec/node-redis-users-management/blob/master/screenshots/search_users.gif)
-![screenshots](https://github.com/lirangofer-spec/node-redis-users-management/blob/master/screenshots/user_details.gif)
+![screenshots](https://github.com/lirangofer-spec/node-redis-users-management/blob/master/screenshots/search_users.png)
+![screenshots](https://github.com/lirangofer-spec/node-redis-users-management/blob/master/screenshots/user_details.png)
 ## Usage
 
 Make sure you have Redis installed and running.
